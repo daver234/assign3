@@ -4,27 +4,34 @@
 
 
 .wrapper{
-	width: 960px;
+	width: 630px;
 	height: auto;
 	margin-left: 20px;
-
+	background-color: black;
 }
 
 #main{
+	padding-left: 10px;
 
 }
 	#main h2{
 		font-size: 18pt;
-		color: black;
+		color: white;
 	}
 
 	#main p{
 		font-size: 10pt;
-		font-family: times;
+		color: white;
+		padding-bottom: 10px;
 	}
 
-	#main img{
-		display: block;
-		padding-bottom: 5px;
+#pics{
+	display: inline-block;
+	padding: 5px;
+	
+}	
+
+	#pics img{
+		border: gray solid medium;
 	}
 
