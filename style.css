@@ -1,0 +1,30 @@
+* {
+	font-family: times, arial, sans-serif;
+}
+
+
+.wrapper{
+	width: 960px;
+	height: auto;
+	margin-left: 20px;
+
+}
+
+#main{
+
+}
+	#main h2{
+		font-size: 18pt;
+		color: black;
+	}
+
+	#main p{
+		font-size: 10pt;
+		font-family: times;
+	}
+
+	#main img{
+		display: block;
+		padding-bottom: 5px;
+	}
+

@@ -1,0 +1,26 @@
+* {
+	font-family: times, arial, sans-serif;
+}
+
+
+.container{
+	width: 1001px;
+	height: auto;
+	/*margin: 0px auto;*/
+	/*display: inline-block;*/
+	background-color: gray;
+}
+
+#main{
+
+}
+	#main h2{
+		font-size: 18pt;
+		color: black;
+		margin-left: 10px;
+	}
+
+	#main p{
+		font-size: 10pt;
+		font-family: times;
+	}
